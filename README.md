@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# React JS Components (Typescript based)
 
 This project will grow with many ready use Typescript based react js components in future. Currently available components.
 
