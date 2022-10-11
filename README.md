@@ -1,6 +1,7 @@
 # React JS Components (Typescript based)
 
 This project will grow with many ready use Typescript based react js components in future. Currently available components.
+Watch and Star it to get to know when new components are available.
 
 1. Icon Picker Component (Example implmentation at src/IconPickerExample.tsx)
 
