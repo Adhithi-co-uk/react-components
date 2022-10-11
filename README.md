@@ -4,6 +4,7 @@ This project will grow with many ready use Typescript based react js components 
 Watch and Star it to get to know when new components are available.
 
 1. Icon Picker Component (Example implmentation at src/IconPickerExample.tsx)
+   <img src="./images/icon-picker.gif" />
 
 ## Available Scripts
 
