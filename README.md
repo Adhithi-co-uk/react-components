@@ -1,6 +1,8 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project will grow with many ready use Typescript based react js components in future. Currently available components.
+
+1. Icon Picker Component (Example implmentation at src/IconPickerExample.tsx)
 
 ## Available Scripts
 
